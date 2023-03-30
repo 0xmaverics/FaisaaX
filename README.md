@@ -1,2 +1,3 @@
-# FaisaaX - An Automated Market Maker & Atomicswap Protocol on CoreDAO 
+# FaisaaX
+An Automated Market Maker & Atomicswap Protocol on CoreDAO 
 
